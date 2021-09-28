@@ -7,5 +7,6 @@ public class Git_Demo {
         System.out.println("hello,git");
         System.out.println("hello,gitasdasd");
         System.out.println("hello,你好啊");
+        System.out.println("我该选什么工程实践呢？");
     }
 }
